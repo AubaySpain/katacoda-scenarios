@@ -1,5 +1,9 @@
 {
-  "title": "Ansible Básico",
-  "description": "Curso básico de Ansible",
-  "courses": []
+    "title": "Ansible Básico",
+    "description": "Curso básico de Ansible",
+    "courses": [{
+        "course_id": "ansible-introduccion",
+        "title": "Introducción a Ansible",
+        "description": "Introducción a Ansible"
+    }]
 }

@@ -3,7 +3,7 @@
     "description": "Curso básico de Ansible",
     "courses": [{
         "course_id": "ansible-introduccion",
-        "title": "Introducción a Ansible",
-        "description": "Introducción a Ansible"
+        "title": "Introducción a Ansible 2",
+        "description": "Introducción a Ansible 2"
     }]
 }
